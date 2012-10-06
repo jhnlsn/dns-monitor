@@ -5,6 +5,10 @@
 *.war
 *.ear
 
+# Ant generated
+build
+dist
+
 # remove intellij files
 .idea
 *.iml
