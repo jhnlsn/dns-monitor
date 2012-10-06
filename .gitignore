@@ -4,3 +4,7 @@
 *.jar
 *.war
 *.ear
+
+# remove intellij files
+.idea
+*.iml
