@@ -2,9 +2,7 @@ dns-monitor
 ===========
 
 # Summary
-monitors dns resolves
-Not very useful right now, I am just trying to move
-some of my public work to github from a private svn repo.
+monitor dns resolvers
 
 You will need to add xbill DNS to your project classpath manually to build.
 Also org.json.me as well
@@ -14,4 +12,4 @@ Remove xbill.DNS source files
 
 Update to use hopper
 
-Don't have a build file yet either.
+Needs a build file
